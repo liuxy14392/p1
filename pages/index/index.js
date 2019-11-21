@@ -21,7 +21,7 @@ Page({
     nowTemp: '',
     nowWeather: '',
     nowWeatherBackground: "",
-    forecast : [1, 2, 3, 4,5,6,7,8,9,10],
+    forecast : [1, 2, 3],
   },
   onPullDownRefresh() {
     //console.log("refresh executed!")
